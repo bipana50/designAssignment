@@ -1,0 +1,300 @@
+.main-wrapper{
+    width: 87.5em;
+    min-width: 87.5em;
+}
+.header{
+    width: 87.5em;
+    min-width: 87.5em;
+}
+.up-head{
+    background-color: #fafafa;
+}
+.logo{
+    width: 45%;
+    margin-left: 5%;  
+}
+.nav{
+    width: 45%;
+    line-height: 64px;
+    margin-right: 5%;
+}
+.down-head{
+    background-color: #7a7878;
+}
+.header-right{
+    text-align: right;
+    font-size: 48px;
+    color: rgb(230, 230, 230);
+  font-family: "OpenSans";
+  margin-right: 5%;
+  margin-top: 210px;
+    margin-bottom: 22px;
+    line-height: 1.25;
+    width: 34.2857%;
+}
+.downer-head{
+    background-color: #7a7878;
+}
+.header-button{
+    margin-right: 5%;
+      margin-bottom: 202px;
+      line-height: 1.25;
+      width: 34.2857%;
+}
+.buy, .learn{
+    text-align: center;
+    line-height: 58px;
+    font-size: 18px;
+    font-family: "OpenSans";
+    font-weight: bold;
+}
+.buy{
+    background-color: rgb(250, 250, 250);
+    margin-right: 4.1667%;
+    width: 32.2917%;
+}
+.learn{
+    background-color: rgb(85, 85, 85);
+    width: 37.5%;
+}
+.row-1{
+    width: 83.7143%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 119px;
+    margin-bottom: 85px;
+}
+.row-1 .clearfix .margin-none.descriptions{
+    margin-right: 0%;
+}
+.row-1 .descriptions{
+    background-color: #f5f5f5;
+    width: 31.7406%;
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 25px;
+    margin-right: 2%;
+}
+.rocket1-div{
+    background-color: #3baafe;
+    background-size: 20px auto;
+    position: absolute;
+    bottom: 80px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-bottom: 40px;
+    margin-left: 8.0645%;
+}
+.rocket2-div, .rocket3-div{
+    background-color: #555555;
+    background-size: 20px auto;
+    position: absolute;
+    bottom: 80px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-bottom: 40px;
+    margin-left: 8.0645%;
+}
+
+.title{
+    font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.667;
+  text-align: left;
+  margin-left: 8.0645%;
+}
+
+
+.row-2{
+    width: 100%;
+    background-color: #7a7878;
+    margin-bottom: 100px;
+}
+.row-2-wrapper{
+    width: 48.0714%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #f5f5f5;
+}
+.row2-title{
+    font-size: 24px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.5;
+  text-align: left;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15);
+  margin-left: 5.7949%; 
+  padding-top: 60px;
+    padding-bottom: 40px;
+}
+.row2img-wrapper{
+    width: 20%;
+    background-color: white;
+}
+.choose-list{
+    margin-left: 5.7949%; 
+    margin-top: 45px;
+    padding-bottom: 46px;
+}
+.row2-article{
+    width: 77%;
+}
+.row2-article div{
+    font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  line-height: 1.167;
+  text-align: left;
+}
+.row-3{
+    width:100%;
+    background-color: #ffffff;
+    margin-bottom: 60px;
+}
+.row3-title{
+    width:100%;
+    text-align: center;
+    margin-bottom: 60px; 
+}
+.row-3 ul li div{
+    line-height: 40px;
+}
+.topic{
+    margin-left: 4%;
+    font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(85, 85, 85);
+  font-weight: bold;
+  text-align: left;
+}
+.row3img-wrapper{
+    width: 15%;
+    background-color: #555555;
+    border-radius: 50%;
+}
+.row3img-wrapper:hover{
+    background-color: #3baafe;
+}
+.row-4{
+    width: 100%;
+    background-color: #7a7878;
+}
+.row4-wrapper{
+    background-color: #ebebeb;
+    width: 62.2143%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 45px;
+
+}
+.row4-wrapper .article{
+    width: 80%;
+    margin-left: 5%;
+}
+.row4-title{
+    font-size: 24px;
+  font-family: "NotoSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  line-height: 1;
+  text-align: left;
+  padding-top: 45px;
+    padding-bottom: 35px;
+    margin-left: 3.44%;
+}
+.row4img-wrapper{
+    width: 15%;
+    background-color: white;
+    border-radius: 50%;
+}
+.row-5 .main-ul .main-ul-li .side-div{
+    width: 60%;
+    padding: 30px 0px 15px 38%;
+}
+.image-div-r5{
+    position: relative;
+}
+.image-div-r5 div{
+   position: absolute;
+   bottom: 20px;
+   left: 20px;
+}
+.image-div-r5 img{
+    position: absolute;
+}
+.row5img-wrapper{
+    width: 7%;
+    background-color: white;
+    border-radius: 50%;
+    margin-right: 1%;
+}
+.row-5 .div1{
+    font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(59, 170, 254);
+  font-weight: bold;
+  line-height: 2.5;
+  text-align: left;
+  background-color:white;
+    width: 50%;
+}
+.row-5 .div2{
+    font-size: 12px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 2;
+  text-align: left;
+  background-color: #e6e6e6;
+    width: 50%;
+}
+.row5-title{
+    width:100%;
+    text-align: center;
+    margin-bottom: 60px; 
+    margin-top: 68px;
+    
+}
+.row-6{
+    width: 100%;
+    height: auto;
+    background-image: url('../images/bgrow6.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-bottom: 50px;
+}
+.row6-title{
+    font-size: 24px;
+  font-family: "NotoSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.5;
+  text-align: left;
+}
+.row-6 .right-div{
+    padding-bottom: 70px;
+    width: 46%;
+    margin-top: 30px;
+}
+ .row-6 .div-a{
+     width: 10%;
+     background-color: white;
+     border-radius: 50%;
+ }
+
+ .row-6 .div-b{
+     width: 88%;
+     font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  margin-left: 2%;
+ }
+

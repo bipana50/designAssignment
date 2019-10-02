@@ -1,0 +1,307 @@
+.nav {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-align: right;
+  position: absolute;
+  left: 704.938px;
+  top: 21.5px;
+  z-index: 4;
+}
+.nav_selection_mark {
+  background-color: rgb(59, 170, 254);
+  position: absolute;
+  left: 706px;
+  top: 47px;
+  width: 41px;
+  height: 3px;
+  z-index: 5;
+}
+.slider_text {
+  font-size: 48px;
+  font-family: "OpenSans";
+  color: rgb(230, 230, 230);
+  text-transform: uppercase;
+  line-height: 1.25;
+  text-align: right;
+  position: absolute;
+  left: 805.731px;
+  top: 326.762px;
+  z-index: 21;
+}
+.Buy_Now {
+  font-size: 18px;
+  font-family: "OpenSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 3.333;
+  text-align: center;
+  position: absolute;
+  left: 962.844px;
+  top: 453.503px;
+  z-index: 28;
+}
+.bg {
+  background-color: rgb(250, 250, 250);
+  position: absolute;
+  left: 930px;
+  top: 455px;
+  width: 154px;
+  height: 57px;
+  z-index: 27;
+}
+.Learn_More {
+  font-size: 18px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 3.333;
+  text-align: center;
+  position: absolute;
+  left: 1135.844px;
+  top: 453.503px;
+  z-index: 24;
+}
+.bg {
+  background-color: rgb(85, 85, 85);
+  position: absolute;
+  left: 1104px;
+  top: 455px;
+  width: 180px;
+  height: 57px;
+  z-index: 23;
+}
+
+.bg {
+  background-color: rgb(245, 245, 245);
+  position: absolute;
+  left: 115px;
+  top: 833px;
+  width: 370px;
+  height: 175px;
+  z-index: 33;
+}
+
+.icon_bg {
+  border-radius: 50%;
+  background-color: rgb(59, 170, 254);
+  position: absolute;
+  left: 146px;
+  top: 803px;
+  width: 60px;
+  height: 60px;
+  z-index: 36;
+}
+.title {
+  font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.667;
+  text-align: left;
+  position: absolute;
+  left: 144.844px;
+  top: 879.497px;
+  z-index: 40;
+}
+.title {
+  font-size: 24px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.5;
+  text-align: left;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.15);
+  position: absolute;
+  left: 454.877px;
+  top: 1147px;
+  z-index: 73;
+}
+.text {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 453.937px;
+  top: 1244.25px;
+  width: 589px;
+  height: 56px;
+  z-index: 74;
+}
+.title {
+  font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.167;
+  text-align: left;
+  position: absolute;
+  left: 524.844px;
+  top: 1318.997px;
+  z-index: 81;
+}
+.text {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 523.937px;
+  top: 1369.25px;
+  width: 183px;
+  height: 35px;
+  z-index: 82;
+}
+.What_We_Do {
+  font-size: 24px;
+  font-family: "NotoSans";
+  color: rgb(59, 170, 254);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 2.5;
+  text-align: left;
+  position: absolute;
+  left: 622.877px;
+  top: 1617.5px;
+  z-index: 112;
+}
+.title {
+  font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(85, 85, 85);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.333;
+  text-align: left;
+  position: absolute;
+  left: 167.844px;
+  top: 1752.503px;
+  z-index: 127;
+}
+.text {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 113.937px;
+  top: 1815.25px;
+  width: 265px;
+  height: 53px;
+  z-index: 128;
+}
+.How_We_Work {
+  font-size: 24px;
+  font-family: "NotoSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1;
+  text-align: left;
+  position: absolute;
+  left: 154.937px;
+  top: 2205.5px;
+  z-index: 193;
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisi {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 154.994px;
+  top: 2279.25px;
+  width: 655px;
+  height: 56px;
+  z-index: 194;
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisi {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  line-height: 1.5;
+  text-align: left;
+  position: absolute;
+  left: 200.937px;
+  top: 2396.25px;
+  width: 195px;
+  height: 77px;
+  z-index: 200;
+}
+.We_Deploy {
+  font-size: 18px;
+  font-family: "NotoSans";
+  color: rgb(119, 119, 119);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.667;
+  text-align: left;
+  position: absolute;
+  left: 753.909px;
+  top: 2340.497px;
+  z-index: 217;
+}
+.base {
+  border-style: solid;
+  border-width: 10px;
+  border-color: rgb(230, 230, 230);
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 139px;
+  top: 2787px;
+  width: 146px;
+  height: 171px;
+  z-index: 258;
+}
+.Cristina_Eva {
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(59, 170, 254);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 4.286;
+  text-align: left;
+  position: absolute;
+  left: 315.937px;
+  top: 2821.998px;
+  z-index: 236;
+}
+.Founder___Ceo {
+  font-size: 12px;
+  font-family: "OpenSans";
+  color: rgb(153, 153, 153);
+  text-transform: uppercase;
+  line-height: 5;
+  text-align: left;
+  position: absolute;
+  left: 316.937px;
+  top: 2858.5px;
+  z-index: 240;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
